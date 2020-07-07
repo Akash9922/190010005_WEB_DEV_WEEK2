@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <meta charset="UTF-8">
@@ -92,12 +92,10 @@ always fascinated me.Talking about my experience at IIT till date, I would say i
 <li> <b>Swimming</b> </li>
 </ul>
 </p>
-<p>
-<br>
-<br>
-<br>
-<br>
-</p>
+
+
+
+
 </body>
 
 
